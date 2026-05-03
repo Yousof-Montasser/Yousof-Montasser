@@ -86,16 +86,6 @@ From autonomous UAV tracking pipelines to geospatial route optimizers and real-t
 
 ---
 
-## `$ cat stats.json`
-
-<div align="center">
-
-![Yousof's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yousof-Montasser&show_icons=true&theme=transparent&hide_border=true&title_color=1F4E79&icon_color=1F4E79&text_color=333333&bg_color=ffffff00)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousof-Montasser&layout=compact&theme=transparent&hide_border=true&title_color=1F4E79&text_color=333333&bg_color=ffffff00)
-
-</div>
-
 ---
 
 ## `$ echo $CURRENT_STATUS`
