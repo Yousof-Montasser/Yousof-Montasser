@@ -86,7 +86,6 @@ From autonomous UAV tracking pipelines to geospatial route optimizers and real-t
 
 ---
 
----
 
 ## `$ echo $CURRENT_STATUS`
 
