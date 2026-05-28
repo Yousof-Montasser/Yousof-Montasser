@@ -2,7 +2,7 @@
 
 # Hi, I'm Yousof 👋
 
-### AI/ML Engineer · Data Scientist · Computer Vision · Autonomous Systems · ISR Development (Defense)
+### AI/ML Engineer · Data Scientist · Computer Vision · Autonomous Systems · ISR Systems (Defense)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousof-montasser-6b24a720b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousofmontasser@yahoo.com)
