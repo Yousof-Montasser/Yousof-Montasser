@@ -2,7 +2,7 @@
 
 # Hi, I'm Yousof 👋
 
-### AI/ML Engineer · Data Scientist · Computer Vision · Autonomous Systems · ISR Systems (Defense)
+### AI/ML Engineer · Data Scientist · Autonomous Systems 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousof-montasser-6b24a720b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousofmontasser@yahoo.com)
@@ -17,7 +17,7 @@
 ```python
 yousof = {
     "role"      : "AI/ML Engineer & Data Scientist",
-    "focus"     : ["Computer Vision", "Autonomous Systems", "Geospatial AI", "LLM Pipelines"],
+    "focus"     : ["AI Solutions", "Data Science" , "LLM Pipelines" , "Data Engineering" ],
     "context"   : "Built production AI systems under real operational constraints",
     "location"  : "Cairo, Egypt 🇪🇬",
     "status"    : "Open to AI/ML Engineering & Data Science roles",
@@ -25,7 +25,7 @@ yousof = {
 ```
 
 I don't build demos — I build systems that run in the real world.  
-From autonomous UAV tracking pipelines to geospatial route optimizers and real-time HUD vision systems, my work lives at the intersection of **deep learning**, **computer vision**, and **systems engineering**.
+My work lives at the intersection of **deep learning**, **computer vision**, and **systems engineering**.
 
 ---
 
